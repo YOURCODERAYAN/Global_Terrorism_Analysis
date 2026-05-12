@@ -35,7 +35,7 @@ This is a **published research project** analyzing over **181,000 terrorist inci
 | **Organized by** | GMIT · Backed by IEEE and IET bodies |
 | **Conference Date** | March 21–22, 2025 |
 | **Publication** | Published by Learnet Publication on ResearchGate · ISBN Verified |
-| **Published Paper** | [📄 View Published Paper](./paper.pdf) |
+| **Published Paper** | [📄 View Published Paper](./ResearchPaper.pdf) |
 
 ---
 
