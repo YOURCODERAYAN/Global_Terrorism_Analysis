@@ -182,7 +182,7 @@ Raw Dataset (GTD)
 ```
 global-terrorism-analysis/
 │
-├── GlobalTerrorism_Analysis.ipynb   # Main notebook
+├── In_Depth_Analysis_of_Global_Terrorism_A_Synergystic_Approach_using_EDA_and_Advanced_ML_Models (2).ipynb   # Main notebook
 ├── paper.pdf                        # Published research paper
 ├── README.md                        # This file
 └── assets/                          # Charts and visualization screenshots
@@ -197,7 +197,7 @@ global-terrorism-analysis/
 git clone https://github.com/YOURCODERAYAN/global-terrorism-analysis.git
 
 # 2. Open in Google Colab or Jupyter
-#    Upload GlobalTerrorism_Analysis.ipynb
+#    Upload In_Depth_Analysis_of_Global_Terrorism_A_Synergystic_Approach_using_EDA_and_Advanced_ML_Models (2).ipynb
 
 # 3. Upload the GTD dataset from Kaggle
 #    https://www.kaggle.com/datasets/START-UMD/gtd
